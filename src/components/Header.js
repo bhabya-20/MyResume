@@ -4,7 +4,7 @@ import React from 'react';
 const Header = ({ darkMode, setDarkMode }) => {
   return (
     <header>
-      <h1>My Resume</h1>
+      <h1>Bhabya</h1>
       <nav>
         <a href="#about">About</a>
         <a href="#resume">Resume</a>
